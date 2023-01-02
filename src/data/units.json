@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Panzerhaubitze HMC M41",
+    "attack": 40,
+    "armor": 30,
+    "speed": 20,
+    "health": 100
+  },
+  {
+    "name": "Panzer M4A4 Sherman",
+    "attack": 20,
+    "armor": 40,
+    "speed": 45,
+    "health": 100
+  },
+  {
+    "name": "Jagdflugzeug P-51D",
+    "attack": 15,
+    "armor": 20,
+    "speed": 70,
+    "health": 100
+  }
+]

@@ -1,0 +1,74 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+}
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #61dafbaa);
+}
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+.mcard {
+  background-image: linear-gradient(135deg, rgb(28, 32, 26), rgb(3, 9, 1));
+  border-radius: 40px;
+  padding: 1rem;
+  margin: 0.5rem;
+  box-shadow: 10px 20px 15px rgba(0,0,0,0.25);
+}
+
+.read-the-docs {
+  color: #888;
+}
+
+
+.flex{
+  display: flex
+}
+
+h2{
+  margin-bottom: 2rem;
+  margin-top: 1rem
+}
+
+.mtop-0{
+  margin-top: 0
+}
+
+.mpadding-c2{
+  padding-left: 2rem;
+  padding-right: 2rem
+}
+
+ul{
+  list-style: none;
+}
+
+button{
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  margin-right: 0.5rem;
+}

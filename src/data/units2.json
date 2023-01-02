@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Panzerhaubitze Hummel",
+    "attack": 40,
+    "armor": 30,
+    "speed": 20,
+    "health": 100
+  },
+  {
+    "name": "Jägerpanzer Tiger 1",
+    "attack": 20,
+    "armor": 40,
+    "speed": 45,
+    "health": 100
+  },
+  {
+    "name": "Kampfflugzeug Me 210.",
+    "attack": 15,
+    "armor": 20,
+    "speed": 70,
+    "health": 100
+  }
+]
